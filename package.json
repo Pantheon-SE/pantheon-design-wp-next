@@ -20,7 +20,8 @@
 		"test": "vitest run",
 		"test:watch": "vitest",
 		"update-snapshots": "vitest run --update --silent",
-		"coverage": "vitest run --coverage"
+		"coverage": "vitest run --coverage",
+		"test:alt": "vitest run"
 	},
 	"dependencies": {
 		"@pantheon-systems/nextjs-kit": "1.7.1",
