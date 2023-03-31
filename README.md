@@ -109,3 +109,5 @@ export const client = new GraphqlClientFactory(process.env.backendUrl, {
 	method: 'POST',
 }).create();
 ```
+
+## Another test
